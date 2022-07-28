@@ -494,7 +494,7 @@ a:hover {
 
 .restriction-text { font-size: 15px; }
 
-nav.main-menu{padding: 20px 0;}
+nav.main-menu{padding: 20px 0;position: relative;}
 .main-menu .fst{order: 1;}
 .main-menu .snd{order: 3;}
 .main-menu .third{order: 2;}
